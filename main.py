@@ -6,7 +6,7 @@ from agents.responder import Responder
 
 def main():
     # Replace with your actual OpenWeather API key and desired city.
-    OPENWEATHER_API_KEY = "fcbd747c9a7caf473d9384512d124591"
+    OPENWEATHER_API_KEY = "your_api_key"
     CITY = "London"  # Example city; change as needed.
 
     # Create the central controller.
